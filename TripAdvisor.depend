@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1461618527 source:c:\users\edd\desktop\tema antonia\tema buna\tripadvisor\src\graph.cpp
+	"Graph.h"
+	"Algorithm.h"
+	<iostream>
+
+1461618261 c:\users\edd\desktop\tema antonia\tema buna\tripadvisor\include\graph.h
+
+1461615388 source:c:\users\edd\desktop\tema antonia\tema buna\tripadvisor\src\main.cpp
+	"Graph.h"
+	<iostream>
+
+1461620266 source:c:\users\edd\desktop\tema antonia\tema buna\tripadvisor\src\algorithm.cpp
+	"Algorithm.h"
+	<iostream>
+
+1461617585 c:\users\edd\desktop\tema antonia\tema buna\tripadvisor\include\algorithm.h
+	"Graph.h"
+
